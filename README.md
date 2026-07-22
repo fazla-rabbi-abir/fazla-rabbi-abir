@@ -75,9 +75,9 @@ I also like sharing technical knowledge through educational content and collabor
   <br/>
 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fazla-rabbi-abir&show_icons=true&theme=radical&count_private=true" height="170" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fazla-rabbi-abir&layout=compact&theme=radical" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fazla-rabbi-abir&layout=compact&theme=radical" height="170" /> 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fazla-rabbi-abir&" alt="fazla-rabbi-abir" height="170" />
 
 </div>
 
 ---
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fazla-rabbi-abir&" alt="fazla-rabbi-abir" /></p>
