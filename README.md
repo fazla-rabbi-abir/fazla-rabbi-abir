@@ -1,4 +1,4 @@
-
+![Banner](https://github.com/fazla-rabbi-abir/fazla-rabbi-abir/blob/main/Banner%20DA.png)
 <h1 align="center">Fazla Rabbi Abir</h1>
 
 <h3 align="center">
