@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/minhazahmmed/minhazahmmed/main/banner.png)
+/* ![Banner](https://raw.githubusercontent.com/minhazahmmed/minhazahmmed/main/banner.png) */
 
 <h1 align="center">Fazla Rabbi Abir</h1>
 
