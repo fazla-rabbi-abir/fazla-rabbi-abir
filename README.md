@@ -24,21 +24,21 @@ I also like sharing technical knowledge through educational content and collabor
 
 - Exploring PostGre SQL   
 - Improving Dashboard development skills with Power BI 
-- Practicing data cleaning, data visualization and project structuring
+- Practicing Data Cleaning, Data Visualization and Project Structuring
 
 ---
 
 ## 🛠️ Skills
 
 ### 💻 Programming Languages
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c" height="45" />
   <img src="https://skillicons.dev/icons?i=cpp" height="45" />
   <img src="https://skillicons.dev/icons?i=python" height="45" />
 </p>
 
 ### 🎨 Frontend Technologies
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html" height="45" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="45" />
   <img src="https://skillicons.dev/icons?i=react" height="45" />
