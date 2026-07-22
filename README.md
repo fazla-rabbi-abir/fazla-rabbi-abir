@@ -34,15 +34,18 @@ I also like sharing technical knowledge through educational content and collabor
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c" height="45" />
   <img src="https://skillicons.dev/icons?i=cpp" height="45" />
+  <img src="https://skillicons.dev/icons?i=java" height="45" />
+  <img src="https://skillicons.dev/icons?i=php" height="45" />
   <img src="https://skillicons.dev/icons?i=python" height="45" />
+ <img src="https://skillicons.dev/icons?i=r" height="45" />
 </p>
 
-### 🎨 Frontend Technologies
+### 🗄️ Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="45" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" />
-  <img src="https://skillicons.dev/icons?i=react" height="45" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="45" /> 
 </p>
+
 
 ---
 
