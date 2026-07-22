@@ -80,8 +80,4 @@ I also like sharing technical knowledge through educational content and collabor
 </div>
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fazla-rabbi-abir&show_icons=true&locale=en&layout=compact" alt="fazla" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fazla-rabbi-abir&show_icons=true&locale=en" alt="rabbi" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fazla-rabbi-abir&" alt="fazla-rabbi-abir" /></p>
